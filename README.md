@@ -1,5 +1,3 @@
-# crossfire-strategies
-
 # Role-specific strategies
 
 ## Street Samurai
