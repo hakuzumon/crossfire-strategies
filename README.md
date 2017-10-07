@@ -8,6 +8,7 @@ The strategies with Street Samurai center around the ability to draw obstacles f
 5   JUST TOUGH         Increase you starting and max HP by 1.
 10  LIFE-STYLE CHOICE  When you defeat an obstacle that matches your main role color, its nuyen
                        total increases by 1.
+20  FRAGGING TOUCH     Increase your starting and max HP by 2.
 20  BRING IT!          If 2 or more obstacles attack you on your turn, reduce the total damage you
                        take by 1.
 25  STIM PATCH         The first time you be staggered during a game, go to 1HP instead.
