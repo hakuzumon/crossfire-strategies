@@ -5,7 +5,6 @@
 The strategies with Street Samurai center around the ability to draw obstacles from other player to itself, using cards such as Monofilament Whip (2¥), Badger Combat Tow Truck (3¥) and Aztechnology Striker (9¥). Due to this, high stamina is especially important. On the damage side, the Street Samurai is able to do heavy black damage to multiple opponents using Remington Roomsweeper (3¥) and Katana (4¥).
 
 <pre>
-5	COMBAT FU	Once during your turn, you can substitute (2) for a (Black) when applying damage.
 5	JUST TOUGH	Increase you starting and max HP by 1.
 10	LIFE-STYLE CHOICE	When you defeat an obstacle that matches your main role color, its nuyen total increases by 1.
 20	BRING IT!	If 2 or more obstacles attack you on your turn, reduce the total damage you take by 1.
@@ -19,7 +18,6 @@ The strategies with Street Samurai center around the ability to draw obstacles f
 Several of the Mages cards can cycle and peek at the top cards in the player's deck. Such cards are Clairvoyance (2¥), Clearaudience (2¥), Guiding Spirit (3¥), Stunbolt (3¥), Deathtouch (4¥). The rest of the Mages cards can deal damage to whole levels on the damage track.
 
 <pre>
-5	BUTTON MASHER	Once during your turn, you can substitute (2) for a (Blue) when applying damage.
 15	ONE STEP AHEAD	You can look at the top card of your deck anytime. (Doing so can't cause you to shuffle your deck.)
 30	TRICKS		Once during your turn, you can discard the top card of your deck.
 35	JUICE		Once per Scene when you play a Mana, it deals + (2) damage.
@@ -31,7 +29,6 @@ Several of the Mages cards can cycle and peek at the top cards in the player's d
 The deckers specialty is the ability to use cards from the discard pile, such as Jacked In (3¥), Retrieval Agent (4¥) and Brute Force Hack (5¥).
 
 <pre>
-5	MINOR HACK	Once during your turn, you can substitute (2) for a (Green) when applying damage.
 10	ACE IN THE HOLE	When you shuffle your discard into your deck, you can leave one non-basic card in your discard.
 30	TRUE PRO	Remove 1 card from your starting deck that matches your main role color. Replace it with a 2-cost card of that color.
 35	WHIZZ-DECKER	Once per Scene, when you play a Mark, it does 1 extra damage of any color.
@@ -43,7 +40,6 @@ The deckers specialty is the ability to use cards from the discard pile, such as
 The Face is most suited of all the classes to a supporting role, with specialty in gaining discounts when buying cards and healing. None of the Face's cards deal very much damage by themselves, but combining forces with other players using Coordinated Attack (4¥), or focusing on multiple colors with Press the Advantage (5¥) can deal much damage, but are highly situational.
 
 <pre>
-5	COMPETENCE	Once during your turn, you can substitute (2) for a (Red) when applying damage.
 15	LUXURY OPTION	When you buy a card from the Black Market, you can pay 1 more nuyen to draw a card.
 20	TIMING		The second time during a turn that you buy a card that matches your main role color, pay 1 less nuyen.
 35	SHADOW MESSIAH	When you play at least 1 card of each color on your turn, heal 1 HP.
@@ -121,11 +117,6 @@ The Face is most suited of all the classes to a supporting role, with specialty 
 
 <pre>
 5	IN TRAINING 	Increase your starting cards by 1.
-5	COMBAT FU	Once during your turn, you can substitute (2) for a (Black) when applying damage.
-5	MINOR HACK	Once during your turn, you can substitute (2) for a (Green) when applying damage.
-5	BUTTON MASHER	Once during your turn, you can substitute (2) for a (Blue) when applying damage.
-5	COMPETENCE	Once during your turn, you can substitute (2) for a (Red) when applying damage.
-5	FUNDAMENTALS	At the start of the game, add 1 basic card of any color to your starting deck.
 5	CALLED SHOT	Once a game, you can discard the top card in the Black Market deck. If it matches you main role color, draw 2 cards.
 10	PREP WORK	At the start of each game, you can buy a card. (Pay its cost and put it into your hand immediately.)
 10	BRIBE THE GUARD	When the first obstacle of a Scene is flipped up, you can discard it and draw another card from the same deck.
