@@ -1,4 +1,4 @@
-# Role-specific strategies
+﻿# Role-specific strategies
 
 ## Street Samurai
 
@@ -74,7 +74,7 @@ The Face is most suited of all the classes to a supporting role, with specialty 
 ## Spending nuyen
 
 <pre>
-5  GOT YOUR BACKS      Once a game, you can pay 3 nuyen to heal a staggered runner 1HP.
+5   GOT YOUR BACKS     Once a game, you can pay 3 nuyen to heal a staggered runner 1HP.
 15  LUXURY OPTION      When you buy a card from the Black Market, you can pay 1 more nuyen to draw a
                        card.
 35  GROUNDWORK         Once during your turn, you can pay 2 nuyen to draw 1 card.
@@ -112,12 +112,12 @@ The Face is most suited of all the classes to a supporting role, with specialty 
                        discard instead of your hand.
 15  BEEN THERE, KILLED THAT When you buy a card that costs 5 or more and matches your main role
                        color, pay 1 less nuyen.
-20  THE LONG VIEW  You can buy cards from the Black Market discard.
-30  SHOP WHEN THEY DROP  The first card you buy each turn costs 1 less nuyen if it matches the color
+20  THE LONG VIEW      You can buy cards from the Black Market discard.
+30  SHOP WHEN THEY DROP The first card you buy each turn costs 1 less nuyen if it matches the color
                        of an obstacle you defeated that turn.
-35  DRIVE A HARD BARGAIN  When you buy a card from the Black Market, you can put another card that
+35  DRIVE A HARD BARGAIN When you buy a card from the Black Market, you can put another card that
                        costs at least 3 less than it from the Market into your discard.
-40  FOURTH WIND  When you buy a card, you can return a basic card of the same color from your
+40  FOURTH WIND        When you buy a card, you can return a basic card of the same color from your
                        discard to your hand.
 </pre>
 
