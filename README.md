@@ -19,7 +19,7 @@ The strategies with Street Samurai center around the ability to draw obstacles f
 
 ## Mage
 
-Several of the Mages cards can cycle and peek at the top cards in the player's deck. Such cards are Clairvoyance (2¥), Clearaudience (2¥), Guiding Spirit (3¥), Stunbolt (3¥), Deathtouch (4¥). The rest of the Mages cards can deal damage to whole levels on the damage track.
+Several of the Mage's cards can cycle and peek at the top cards in the player's deck. Such cards are Clairvoyance (2¥), Clearaudience (2¥), Guiding Spirit (3¥), Stunbolt (3¥), Deathtouch (4¥). The rest of the Mages cards can deal damage to whole levels on the damage track.
 
 <pre>
 15  ONE STEP AHEAD     You can look at the top card of your deck anytime. (Doing so can't cause you
@@ -32,7 +32,7 @@ Several of the Mages cards can cycle and peek at the top cards in the player's d
 
 ## Decker
 
-The deckers specialty is the ability to use cards from the discard pile, such as Jacked In (3¥), Retrieval Agent (4¥) and Brute Force Hack (5¥).
+The Decker's specialty is the ability to use cards from the discard pile, such as Jacked In (3¥), Retrieval Agent (4¥) and Brute Force Hack (5¥).
 
 <pre>
 10  ACE IN THE HOLE    When you shuffle your discard into your deck, you can leave one non-basic
