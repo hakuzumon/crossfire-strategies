@@ -12,6 +12,8 @@ The strategies with Street Samurai center around the ability to draw obstacles f
 20  BRING IT!          If 2 or more obstacles attack you on your turn, reduce the total damage you
                        take by 1.
 25  STIM PATCH         The first time you be staggered during a game, go to 1HP instead.
+30  TRUE PRO           Remove 1 card from your starting deck that matches your main role color.
+                       Replace it with a 2-cost card of that color.
 30  PRACTICED RECOVERY When you defeat an obstacle that matches your main role color, heal 1 HP.
 35  TACTICIAN          Once per Scene, when you play a Quick-Shot, move an obstacle facing one
                        runner to face another runner.
@@ -25,6 +27,8 @@ Several of the Mage's cards can cycle and peek at the top cards in the player's 
 15  ONE STEP AHEAD     You can look at the top card of your deck anytime. (Doing so can't cause you
                        to shuffle your deck.)
 30  TRICKS             Once during your turn, you can discard the top card of your deck.
+30  TRUE PRO           Remove 1 card from your starting deck that matches your main role color.
+                       Replace it with a 2-cost card of that color.
 35  JUICE              Once per Scene when you play a Mana, it deals + (2) damage.
 40  PERFECT FOCUS      Once during your turn, you can discard 2 cards of the same color to return
                        another card of that color from your discard to your hand.
@@ -52,6 +56,8 @@ The Face is most suited of all the classes to a supporting role, with specialty 
                        card.
 20  TIMING             The second time during a turn that you buy a card that matches your main role
                        color, pay 1 less nuyen.
+30  TRUE PRO           Remove 1 card from your starting deck that matches your main role color.
+                       Replace it with a 2-cost card of that color.					   
 35  SHADOW MESSIAH     When you play at least 1 card of each color on your turn, heal 1 HP.
 35  ONE MOVE AHEAD     Once per Scene, when you play a Street-Smarts, choose another runner. That
                        runner draws 1 card.
